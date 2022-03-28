@@ -1,0 +1,5 @@
+displayName = Exo Mod
+author = Neil
+version = 0.13
+modReferences = SubworldLibrary
+languageVersion = 8
